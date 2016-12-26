@@ -6,3 +6,10 @@ problems and serve as a diary.
 Day 1 12/26
 
 Starting off with the book after Christmas Day, seems fun :)
+ex1 done
+
+ex2 done
+a little unsure what SD 2 is trying to ask
+nvm realized its trying to teach debugging skills
+
+ex3 
