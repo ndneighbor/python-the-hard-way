@@ -12,4 +12,7 @@ ex2 done
 a little unsure what SD 2 is trying to ask
 nvm realized its trying to teach debugging skills
 
-ex3 
+ex3 done
+wow I am bad at math
+
+ex4
